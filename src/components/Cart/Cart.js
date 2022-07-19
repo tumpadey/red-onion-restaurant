@@ -181,10 +181,10 @@ const Cart = (props) => {
                       <h5>Total:</h5>
                     </div>
                     <div className="col-md-4 status">
-                      <h5>$ <span id="sub-total-price">{subTotal.toFixed(2)}</span> </h5>
-                      <h5>$ <span> {tax}.00</span> </h5>
-                      <h5>$ <span>{deliveryFee}.00</span> </h5>
-                      <h5>$ <span id="total-price">{(subTotal + tax + deliveryFee).toFixed(2)}</span> </h5>
+                      <h5>BDT <span id="sub-total-price">{subTotal.toFixed(2)}</span> </h5>
+                      <h5>BDT <span> {tax}.00</span> </h5>
+                      <h5>BDT <span>{deliveryFee}.00</span> </h5>
+                      <h5>BDT<span id="total-price">{(subTotal + tax + deliveryFee).toFixed(2)}</span> </h5>
                     </div>
                   </div>
                   <button

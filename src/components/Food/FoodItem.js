@@ -11,7 +11,7 @@ const FoodItem = (props) => {
                 <div className="card-body">
                     <h5 className="card-title">{title}</h5>
                     <p className="card-text">{subtitle}</p>
-                    <h4 className="price">${price}</h4>
+                    <h4 className="price">BDT{price}</h4>
                 </div>
             </div>
         </div>

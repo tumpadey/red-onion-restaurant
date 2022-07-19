@@ -5,7 +5,7 @@ const foods = [
     description:'Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.',
     img:'https://i.ibb.co/Ph7HZpK/lunch1.png',
     catagories:'lunch',
-    price:9.99,
+    price:200,
     id:100123
   },
   {
@@ -14,7 +14,7 @@ const foods = [
     description:'Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.',
     img:'https://i.ibb.co/8Yfk9Y4/lunch2.png',
     catagories:'lunch',
-    price:12.99,
+    price:350,
     id:1001234,
   },
   {
@@ -23,7 +23,7 @@ const foods = [
     description:'Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.',
     img:'https://i.ibb.co/5BPBJKH/lunch3.png',
     catagories:'lunch',
-    price:23.99,
+    price:480,
     id:100145234,
   },
   {
@@ -32,7 +32,7 @@ const foods = [
     description:'Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.',
     img:'https://i.ibb.co/R3rLv58/lunch4.png',
     catagories:'lunch',
-    price:15.99,
+    price:350,
     id:10012347,
   },
   {
@@ -41,7 +41,7 @@ const foods = [
     description:'Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.',
     img:'https://i.ibb.co/zxQ2mR3/lunch5.png',
     catagories:'lunch',
-    price:7.99,
+    price:800,
     id:1001423,
   },
   {
@@ -50,7 +50,7 @@ const foods = [
     description:'Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.',
     img:'https://i.ibb.co/Vttm4HL/lunch6.png',
     catagories:'lunch',
-    price:19.99,
+    price:950,
     id:1770123,
   },
   {
@@ -59,7 +59,7 @@ const foods = [
     description:'Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.',
     img:'https://i.ibb.co/fqzz97r/dinner1.png',
     catagories:'dinner',
-    price:9.99,
+    price:1099,
     id:108453,
   },
   {
@@ -68,16 +68,16 @@ const foods = [
     description:'Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.',
     img:'https://i.ibb.co/qFcr7vr/dinner2.png',
     catagories:'dinner',
-    price:12.99,
+    price:875,
     id:199123,
   },
   {
-    title:'Pork Tenderiain',
+    title:'Beef  Tenderiain',
     subtitle:'How we dream about our future',
     description:'Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.',
     img:'https://i.ibb.co/pLtqXfB/dinner3.png',
     catagories:'dinner',
-    price:23.99,
+    price:600,
     id:10483,
   },
   {
@@ -86,7 +86,7 @@ const foods = [
     description:'Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.',
     img:'https://i.ibb.co/McDVR1C/dinner4.png',
     catagories:'dinner',
-    price:15.99,
+    price:475,
     id:107484,
   },
   {
@@ -95,7 +95,7 @@ const foods = [
     description:'Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.',
     img:'https://i.ibb.co/Kynmst1/dinner5.png',
     catagories:'dinner',
-    price:7.99,
+    price:799,
     id:114414,
   },
   {
@@ -104,7 +104,7 @@ const foods = [
     description:'Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.',
     img:'https://i.ibb.co/Kmvyhdn/dinner6.png',
     catagories:'dinner',
-    price:19.99,
+    price:199,
     id:1178123,
   },
   {
@@ -113,7 +113,7 @@ const foods = [
     description:'Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.',
     img:'https://i.ibb.co/YWxtdqc/breakfast1.png',
     catagories:'breakfast',
-    price:9.99,
+    price:799,
     id:1001234854,
   },
   {
@@ -122,7 +122,7 @@ const foods = [
     description:'Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.',
     img:'https://i.ibb.co/t2pmW5S/breakfast2.png',
     catagories:'breakfast',
-    price:12.99,
+    price:150,
     id:10012374874,
   },
   {
@@ -131,7 +131,7 @@ const foods = [
     description:'Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.',
     img:'https://i.ibb.co/0FGxwXy/breakfast3.png',
     catagories:'breakfast',
-    price:23.99,
+    price:299,
     id:10014564723,
   },
   {
@@ -140,7 +140,7 @@ const foods = [
     description:'Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.',
     img:'https://i.ibb.co/QC0KJPt/breakfast4.png',
     catagories:'breakfast',
-    price:15.99,
+    price:180,
     id:1001778623,
   },
   {
@@ -149,7 +149,7 @@ const foods = [
     description:'Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.',
     img:'https://i.ibb.co/pwjPPM3/breakfast5.png',
     catagories:'breakfast',
-    price:7.99,
+    price:325,
     id:100123545444,
   },
   {
@@ -158,7 +158,7 @@ const foods = [
     description:'Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.',
     img:'https://i.ibb.co/fSvwzpZ/breakfast6.png',
     catagories:'breakfast',
-    price:19.99,
+    price:199,
     id:100142447423,
   },
 ]
